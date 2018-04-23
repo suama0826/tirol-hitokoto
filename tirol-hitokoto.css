@@ -1,0 +1,63 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+header {
+    background-color: #CEF6E3;
+    height: 320px;
+    border-bottom: 3px solid #D8D8D8;
+}
+
+.header-logo {
+    text-align: center;
+    font-size: 24px;
+    color: #F5A9A9;
+    padding: 20px;
+}
+
+.tirol-top {
+    text-align: center;
+}
+
+.tirol-top #btn {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.main {
+    background-color: #A9F5E1;
+    height: 800px;
+    padding-top: 30px;
+}
+
+.main-text {
+    background-color: #f6bfbc;
+    width: 180px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+#unsei-text {
+    font-size: 50px;
+    width: 1100px;
+    margin: 180px auto;
+    color: #f09199;
+}
+
+
+footer {
+    background-color: #04B486;
+    height: 200px;
+}
