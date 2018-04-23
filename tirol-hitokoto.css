@@ -12,13 +12,13 @@ li {
 
 header {
     background-color: #CEF6E3;
-    height: 320px;
+    height: 380px;
     border-bottom: 3px solid #D8D8D8;
 }
 
 .header-logo {
     text-align: center;
-    font-size: 24px;
+    font-size: 50px;
     color: #F5A9A9;
     padding: 20px;
 }
@@ -34,26 +34,33 @@ header {
     cursor: pointer;
 }
 
+.tirol-top p {
+    color: #F5A9A9;
+    margin-top: 15px;
+}
+
 .main {
     background-color: #A9F5E1;
-    height: 800px;
+    height: 450px;
     padding-top: 30px;
 }
 
 .main-text {
     background-color: #f6bfbc;
-    width: 180px;
+    width: 400px;
     margin: 0 auto;
     padding: 10px;
     border-radius: 10px;
     color: white;
+    font-size: 35px;
 }
 
 #unsei-text {
     font-size: 50px;
-    width: 1100px;
-    margin: 180px auto;
+    width: 100%;
+    margin: 150px auto;
     color: #f09199;
+    text-align: center;
 }
 
 
